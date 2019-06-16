@@ -3,7 +3,9 @@ layout: post
 title: It's Been Awhile
 ---
 
-I want to write more and share at least some of it publicly. 
+I want to write more and share at least some of it publicly. Here's why.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Why? A few reasons:
 + the need to work through complex ideas by breaking them down into a series of simpler steps that I can explain.
