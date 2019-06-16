@@ -5,8 +5,6 @@ title: It's Been Awhile
 
 I want to write more and share at least some of it publicly. Here's why.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 Why? A few reasons:
 + the need to work through complex ideas by breaking them down into a series of simpler steps that I can explain.
 + the desire to share ideas with others so that they might be able to learn something, or to provoke a thought, or to demonstrate a way to think about something.
