@@ -53,6 +53,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+remote_theme: chesterhow/tale
+
 permalink: /:year-:month-:day/:title
 paginate:     5
 
