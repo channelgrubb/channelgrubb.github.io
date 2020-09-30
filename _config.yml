@@ -1,7 +1,6 @@
 # Site settings
 title:          Tale
 description:    "test"
-baseurl:        ""
 url:            "https://channelgrubb.github.io"
 
 # Google Analytics
