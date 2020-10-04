@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Most wanted features of Things 3
+title:  My Most wanted features to add to Things 3
 author: Chris
 tags: productivity
 ---
