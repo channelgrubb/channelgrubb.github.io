@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Most wanted features of Things 3
-author: "Chris"
-tags: living-well; productivity
+author: Chris
+tags: productivity
 ---
 
 # The 5 Features Things Needs  
